@@ -1,8 +1,9 @@
 ---
 layout: page
-title: ladies
+title: ladies 
 permalink: /ladies/
 ---
+<img src="/img/menina.png" height="60" width="56">
 
 {% for lady in site.ladies %}
 

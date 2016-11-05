@@ -14,10 +14,13 @@ markdown: kramdown
 highlighter: blue
 
 # Pagination
-paginate: 15
-paginate_path: "/blog/page:num/"
+# paginate: 15
+# paginate_path: "/blog/page:num/"
 
 collections:
+  home-es:
+    output: true
+    permalink: /home-es/:path/
   ladies:
     output: true
     permalink: /ladies/:path/
