@@ -1,17 +1,17 @@
 # Site settings
-title: Pyladies Rio
-email: rio@pyladies.com
+title: Pyladies Mendoza
+email: mendoza@pyladies.com
 description: > # this means to ignore newlines until "baseurl:"
-  PyLadies é um grupo internacional de mentoria com foco em ajudar mais e mais mulheres a se tornarem participantes ativas e líderes na comunidade open-source Python.
+ PyLadies is an international group mentoring focused on helping more and more women to become active participants and leaders in the open-source Python community.
 baseurl:  # the subpath of your site, e.g. /blog/
 url:  # the base hostname & protocol for your site
-twitter_username: rio_pyladies
-github_username:  PyladiesRio
+twitter_username: pyladies_mendoza
+github_username:  PyladiesMendoza
 
 # Build settings
 markdown: kramdown
 
-highlighter: rouge
+highlighter: blue
 
 # Pagination
 paginate: 15
