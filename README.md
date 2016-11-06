@@ -10,7 +10,7 @@ Just create a file in .md _ladies directory with the format:
 layout: post
 title: Lady Name
 img: /img/ladies/lady.jpg (points the way image in the img folder / ladies)
-redirect: http://sitedalady.com (the lady of the site's URL)
+redirect: http://sitelady.com (the lady of the site's URL)
 ---
 ```
 
