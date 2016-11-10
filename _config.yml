@@ -4,9 +4,9 @@ email: mendoza@pyladies.com
 description: > # this means to ignore newlines until "baseurl:"
  PyLadies is an international group mentoring focused on helping more and more women to become active participants and leaders in the open-source Python community.
 baseurl:  # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
-twitter_username: pyladies_mendoza
-github_username:  PyladiesMendoza
+url:  pyladiesmendoza.github.io
+# twitter_username: pyladies_mendoza
+# github_username:  PyladiesMendoza
 
 # Build settings
 markdown: kramdown
