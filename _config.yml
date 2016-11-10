@@ -18,6 +18,9 @@ highlighter: blue
 # paginate_path: "/blog/page:num/"
 
 collections:
+  home:
+    output: true
+    permalink: /home/:path/
   home-es:
     output: true
     permalink: /home-es/:path/
