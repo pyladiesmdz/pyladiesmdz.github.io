@@ -2,8 +2,8 @@
 title: Pyladies Mendoza
 email: "mendoza@pyladies.com"
 description: PyLadies is an international group mentoring focused on helping more and more women to become active participants and leaders in the open-source Python community.
-url: "http://pkpacheco.github.io"
-baseurl: "/pyladies-mendoza"
+url: "http://pyladies-mendoza.github.io"
+# baseurl: "/pyladies-mendoza"
 
 # twitter_username: pyladies_mendoza
 github_username: PKpacheco
