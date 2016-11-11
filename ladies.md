@@ -11,7 +11,7 @@ permalink: /ladies/
     <div class="thumbnail">
         <a href="{{ lady.redirect }}" target="_blank">
         {% if lady.img %}
-        <img class="thumbnail resize-img" src="{{ site.baseurl }}{{ lady.img }}"/>
+        <img class="thumbnail resize-img" src="{{ site.baseurl }}/{{ lady.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}
