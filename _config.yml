@@ -6,7 +6,7 @@ url: "http://pkpacheco.github.io"
 baseurl: "/pyladies-mendoza"
 
 # twitter_username: pyladies_mendoza
- github_username:  PKpacheco
+github_username: PKpacheco
 
 # Build settings
 markdown: kramdown
