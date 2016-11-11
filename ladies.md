@@ -28,7 +28,7 @@ permalink: /ladies/
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ lady.url }}">
         {% if lady.img %}
-        <img class="thumbnail resize-img" src="{{ lady.img }}"/>
+        <img class="thumbnail resize-img" src="{{ site.baseurl }}{{ lady.img }}"/>
         {% else %}
         <div class="thumbnail blankbox"></div>
         {% endif %}
