@@ -1,11 +1,11 @@
 # Site settings
-title: Pyladies Mendoza
-email: "pyladiesmdz@gmail.com"
+title: Dev Day Conference 
+email: "devdayconf@gmail.com"
 description: PyLadies is an international group mentoring focused on helping more and more women to become active participants and leaders in the open-source Python community.
 baseurl: "/pyladiesmdz.github.io"
-url: "/pyladiesmdz"
+# url: "/pyladiesmdz"
 # twitter_username: pyladiesmdz
-github_username: pyladiesmdz
+# github_username: pyladiesmdz
 
 # Build settings
 markdown: kramdown
