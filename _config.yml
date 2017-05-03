@@ -2,8 +2,8 @@
 title: Pyladies Mendoza 
 email: "pyladiesmdz@gmail.com"
 description: PyLadies is an international group mentoring focused on helping more and more women to become active participants and leaders in the open-source Python community.
-url: "/pyladiesmdz.github.io"
-baseurl: "/pyladiesmdz.github.io"
+url: "http://pyladiesmdz.github.io"
+baseurl: "/pyladies-mendoza"
 # twitter_username: pyladiesmdz
 # github_username: pyladiesmdz
 
