@@ -5,7 +5,8 @@ permalink: /events/
 ---
 
 <p>Here is a list of our upcoming events. :-)</p>
-
+<p>Todos nuestros eventos están abiertos al público en general. No requiere ningún conocimiento técnico, se recomienda que cualquier persona con un interés en Python para participar.</p>
+    
 {% if site.events %}
 <ul>
 {% for event in site.events reversed %}
